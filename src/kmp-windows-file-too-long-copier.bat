@@ -16,8 +16,7 @@
     SET /p destinationPath=Enter Destination Path^>
     ECHO.
 
-    ROBOCOPY "%sourcePath%" "%destinationPath%" /E /B /R:0 /W:0 /J /NOOFFLOAD /MT:64
-
+    ROBOCOPY "%sourcePath%" "%destinationPath%" /E /B /R:0 /W:0 /J
     ECHO ------------------------------------------------------------------------------
     ECHO.
     ECHO "END OF PROGRAM, PRESS ANY KEY TO COPY SOMETHING ELSE OR CLOSE THE WINDOW TO EXIT." & PAUSE >nul
