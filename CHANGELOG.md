@@ -1,6 +1,10 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.1.0.1 - 2020.01.21
+### Fixed
+- Readme had wrong URL for latest .EXE
+
 ## 1.1.0 - 2020.01.21
 ### Added
 - Feature to keep copying until the program's window is closed
