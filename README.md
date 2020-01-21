@@ -1,5 +1,10 @@
-# KMP Windows File Too Long Copier
-Tool to help copy files that have too long of a filename in Windows OS. This small and simple program was made using Microsoft's [Robocopy](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) and Batch scripting.
+# KMP - Windows File Too Long Copier
+- Program to help copy folder content with too long of a filename in Windows OS. 
+- This program can also help copy folder content that prompt the following messages, even when you are an administrator:
+    - **"Access Denied"**
+    - **"You need permission to perform this action"**
+    - **"You require permission from the computer's administrator to make changes to this file"**   
+- Made using Microsoft's [Robocopy](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) and Batch scripting.
 
 ## Prerequisites
 * Windows NT 4 and later
@@ -13,7 +18,7 @@ Tool to help copy files that have too long of a filename in Windows OS. This sma
 
 ### Written Guide
 1. Download the [.EXE](https://bitbucket.org/kingsleymedia-team/kmp-windows-file-too-long-copier/raw/3b2b590cb12cc4f8a1f43bfc104290407796ccd4/assets/kmp-windows-file-too-long-copier.exe) or [.BAT](https://bitbucket.org/kingsleymedia-team/kmp-windows-file-too-long-copier/src/master/src/kmp-windows-file-too-long-copier.bat) file  
-- N.B. if using the .BAT file, make sure you run it as Administrator
+- N.B. if using the .BAT file, make sure you run it as Administrator. The .EXE file already includes Administrator manifest.
 
 2. Run kmp-windows-file-too-long-copier
 
