@@ -1,6 +1,10 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.2.0.1 - 2020.01.22
+### Changed
+- Video instruction link now available
+
 ## 1.2.0 - 2020.01.21
 ### Changed
 - Command options to: /E /B /R:0 /W:0 /J
