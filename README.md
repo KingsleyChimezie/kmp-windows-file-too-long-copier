@@ -17,10 +17,10 @@
 [![<Enter Alt Text - KMP>](http://img.youtube.com/vi/uCfOtq715LU/0.jpg)](https://youtu.be/uCfOtq715LU "KMP Website initialiser setup guide")
 
 ### Written Guide
-1. Download the [.EXE](https://bitbucket.org/kingsleymedia-team/kmp-windows-file-too-long-copier/raw/master/assets/kmp-windows-file-too-long-copier.exe) or [.BAT](https://bitbucket.org/kingsleymedia-team/kmp-windows-file-too-long-copier/src/master/src/kmp-windows-file-too-long-copier.bat) file  
+1. Download the [.EXE](https://bitbucket.org/kingsleychimezie/windows-file-too-long-copier/raw/master/assets/windows-file-too-long-copier.exe) or [.BAT](https://bitbucket.org/kingsleychimezie/windows-file-too-long-copier/src/master/src/windows-file-too-long-copier.bat) file  
 - N.B. if using the .BAT file, make sure you run it as Administrator. The .EXE file already includes Administrator manifest.
 
-2. Run kmp-windows-file-too-long-copier
+2. Run windows-file-too-long-copier
 
 3. Enter the **source path** for the folder containing all the content you want to copy.
 

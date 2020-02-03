@@ -4,8 +4,8 @@
 (
     CLS
     ECHO ------------------------------------------------------------------------------
-    ECHO    kmp-windows-file-too-long-copier
-    ECHO    By Kingsley Chimezie - Kingsley Media Productions - 2020.01.20
+    ECHO    windows-file-too-long-copier
+    ECHO    By Kingsley Chimezie - 2020.01.20
     ECHO    License: MIT
     ECHO ------------------------------------------------------------------------------
     ECHO.
